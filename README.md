@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/arpit7806/arpit7806/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Arpit%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -87,6 +85,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/arpit7806/arpit7806/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 # 🧩 What I’m Working On
 
