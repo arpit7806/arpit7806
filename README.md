@@ -85,9 +85,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/arpit7806/arpit7806/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+
 
 # 🧩 What I’m Working On
 
