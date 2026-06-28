@@ -22,7 +22,7 @@
 
 * 🎓 B.Tech CSE (AI & ML) | 2nd Year
 * 🏗️ Building **real-world AI & automation projects**
-* 🏆 Hackathon Builder (**Shield Mail project**)
+* 🏆 Hackathon Builder
 * 📈 Currently mastering **DSA + Development + AI workflows**
 * ⚡ Focused on **high-impact engineering skills**
 * 🎯 Goal: Crack a **top-tier SDE internship (FAANG-level)**
